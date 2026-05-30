@@ -1,24 +1,29 @@
-# Omoggle AI
-
 <p align="center">
-  <img src="./snapmog-logo.png" alt="SnapMog logo" width="128" />
+  <a href="https://snapmog.com">
+    <img src="snapmog-logo.png" alt="SnapMog logo" width="112" />
+  </a>
 </p>
 
-Omoggle AI maintains the public GitHub home for [SnapMog](https://snapmog.com), a privacy-first, Omoggle-style camera duel product built around snapshot-first play and optional live 1v1.
+
+# Omoggle AI
+
+SnapMog is an Omoggle-style camera duel product where players start with one snapshot, receive entertainment-oriented camera feedback, and keep live 1v1 optional.
 
 SnapMog is independent and is not affiliated with, endorsed by, or sponsored by Omoggle.
 
-## Public Resources
+## Official Resources
 
 - Website: [snapmog.com](https://snapmog.com)
-- Feedback and roadmap: [Omoggle-AI/snapmog](https://github.com/Omoggle-AI/snapmog)
-- Support: [support@snapmog.com](mailto:support@snapmog.com)
+- Public repository: [Omoggle-AI/snapmog](https://github.com/Omoggle-AI/snapmog)
+- Feedback and issues: [github.com/Omoggle-AI/snapmog/issues](https://github.com/Omoggle-AI/snapmog/issues)
+- Roadmap: [ROADMAP.md](https://github.com/Omoggle-AI/snapmog/blob/main/ROADMAP.md)
+- Support: support@snapmog.com
 
-## What We Maintain Here
+## Product Areas
 
-- Public website feedback
-- Product roadmap discussion
-- Privacy and safety copy corrections
-- Support routing for SnapMog users
+- Start a Blind Snapshot Duel from one camera snapshot.
+- Use Solo Camera Score for framing, lighting, sharpness, and presence feedback.
+- Join a score-first duel queue before opponent photos become central.
+- Choose optional Live Duel Beta only after an 18+ confirmation gate.
 
-This organization does not publish the production website application source in its public feedback repository.
+This organization profile points to the official public GitHub resources for SnapMog. Production source code and private operational configuration are not published here.
