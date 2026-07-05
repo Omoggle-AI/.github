@@ -13,9 +13,9 @@ SnapMog is independent and is not affiliated with, endorsed by, or sponsored by 
 
 ## Official Resources
 
-- Website: [snapmog.com](https://snapmog.com)
+- Website: [SnapMog camera duel game](https://snapmog.com)
 - Public repository: [Omoggle-AI/snapmog](https://github.com/Omoggle-AI/snapmog)
-- Feedback and issues: [github.com/Omoggle-AI/snapmog/issues](https://github.com/Omoggle-AI/snapmog/issues)
+- Feedback and issues: [SnapMog public feedback on GitHub](https://github.com/Omoggle-AI/snapmog/issues)
 - Roadmap: [ROADMAP.md](https://github.com/Omoggle-AI/snapmog/blob/main/ROADMAP.md)
 - Support: support@snapmog.com
 
